@@ -2,9 +2,12 @@
 
 <h3 align="center">A passionate Platform Engineer having experiences in Container Orchestration, Infrastructure Automation/Provisioning, System Engineering, System Monitoring.</h3>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yemin7.yemin7)
+
+
 - 🌱 I'm on track for learning more about Cloud Architecture and Python.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/yeminphyo/">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="mailto:yeminphyo25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yeminphyo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:yeminphyo25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 ### 🛠  Tech Stack
 
@@ -15,6 +18,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yemin7&show_icons=true&count_private=true&theme=gruvbox" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemin7&layout=compact&count_private=true&theme=gruvbox" />
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yemin7.yemin7)
