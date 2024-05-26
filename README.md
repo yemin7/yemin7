@@ -17,6 +17,5 @@
 
 
 ## ⚡ GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yemin7&show_icons=true&count_private=true&theme=gruvbox" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemin7&layout=compact&count_private=true&theme=gruvbox" />
